@@ -7,7 +7,7 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Most of the projects that I have worked on were either for fun, as a hobby, or were experiments, which is why there likely aren't any public copies of them available at this moment.</p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Below you will find my social media accounts as well as some of the languages I use. Keep scrolling to also see my featured repositories as well as my GitHub statistics.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Below you will find my accounts as well as some of the languages I use. Keep scrolling to also see my featured repositories as well as my GitHub statistics.</p>
 
 <br/>
 <table align="center">
