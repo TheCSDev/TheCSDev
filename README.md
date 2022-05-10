@@ -38,7 +38,7 @@
   </tr>
 </table>
 <h2></h2>
-<h2 align="center">My Repositories</h2>
+<h2 align="center">My featured repositories</h2>
 <p align="center">Here are some of the repositories that I have worked on. These repositories I have chosen to feature on my profile's front page.</p>
 
 <p align="center">
