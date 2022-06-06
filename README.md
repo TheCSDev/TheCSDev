@@ -29,7 +29,7 @@
   <tr>
     <td>C#</td>
     <td>Java</td>
-    <td></td>
+    <td>Lua</td>
   </tr>
   <tr>
     <td>HTML</td>
