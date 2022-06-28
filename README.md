@@ -59,6 +59,7 @@
   <a href="https://github.com/Mojang/brigadier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mojang&repo=brigadier&theme=tokyonight"/></a>
   <a href="https://github.com/mstefarov/fNbt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mstefarov&repo=fNbt&theme=tokyonight"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight"/></a>
+  <a href="https://github.com/squidfunk/mkdocs-material"><img src="https://github-readme-stats.vercel.app/api/pin/?username=squidfunk&repo=mkdocs-material&theme=tokyonight"/></a>
 </p>
 
 &nbsp;
